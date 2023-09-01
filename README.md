@@ -35,3 +35,13 @@
 ---
 
 ![Screen Shot 2023-09-02 at 2 49 55 AM](https://github.com/panditsamik/Netflix-Clone/assets/91545371/31e4f9ae-ef9c-4451-8caa-8cbcefcef1ac)
+
+---
+
+## Video
+
+
+https://github.com/panditsamik/Netflix-Clone/assets/91545371/99fb3184-8b1b-427f-a063-c6dd075600c1
+
+
+
