@@ -10,38 +10,39 @@
 
 ## Screenshots
 
-![Screen Shot 2023-09-02 at 2 48 03 AM](https://github.com/panditsamik/Netflix-Clone/assets/91545371/decf0499-bbe4-423c-8487-dc375fe569b6)
+![1](https://github.com/panditsamik/Netflix-Clone/assets/91545371/521066ef-7606-40c0-9c2a-377093214571)
 
 ---
 
-![Screen Shot 2023-09-02 at 2 50 15 AM](https://github.com/panditsamik/Netflix-Clone/assets/91545371/b55b5006-4d04-48b6-bcf6-dcaa1306b556)
+![2](https://github.com/panditsamik/Netflix-Clone/assets/91545371/28adb40e-f852-444e-b820-b8d03975b68b)
 
 ---
 
-![Screen Shot 2023-09-02 at 2 48 32 AM](https://github.com/panditsamik/Netflix-Clone/assets/91545371/e53b31fa-cf87-4fb2-acc7-b9eb78a1236d)
+![3](https://github.com/panditsamik/Netflix-Clone/assets/91545371/3e842704-3700-4dfb-be18-1cc9e5c9260d)
 
 ---
 
-![Screen Shot 2023-09-02 at 2 49 07 AM](https://github.com/panditsamik/Netflix-Clone/assets/91545371/0dca2cf8-35a3-4e1b-8960-8e58759b8885)
+![4](https://github.com/panditsamik/Netflix-Clone/assets/91545371/c53b554a-0cab-4a2f-a66c-c15befc80597)
 
 ---
 
-![Screen Shot 2023-09-02 at 2 49 18 AM](https://github.com/panditsamik/Netflix-Clone/assets/91545371/544ba611-aa19-48f8-9596-c15bfc3609c6)
+![5](https://github.com/panditsamik/Netflix-Clone/assets/91545371/13f770d3-d7c8-4bac-92a1-ec5f168eec88)
 
 ---
 
-![Screen Shot 2023-09-02 at 2 49 28 AM](https://github.com/panditsamik/Netflix-Clone/assets/91545371/52e7e1cc-f6be-444d-b7ab-bf7e3ee808fe)
+![6](https://github.com/panditsamik/Netflix-Clone/assets/91545371/8475e117-25f8-4c41-a631-d5e31d16c881)
 
 ---
 
-![Screen Shot 2023-09-02 at 2 49 55 AM](https://github.com/panditsamik/Netflix-Clone/assets/91545371/31e4f9ae-ef9c-4451-8caa-8cbcefcef1ac)
+![7](https://github.com/panditsamik/Netflix-Clone/assets/91545371/d8acf164-d7cd-42ac-9c0a-e1a4065c27ec)
 
 ---
 
 ## Video
 
+https://github.com/panditsamik/Netflix-Clone/assets/91545371/a250bc88-ed32-4c31-996b-e8cc3ec7b981
 
-https://github.com/panditsamik/Netflix-Clone/assets/91545371/99fb3184-8b1b-427f-a063-c6dd075600c1
+
 
 
 
